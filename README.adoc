@@ -1,5 +1,7 @@
 ## test-kafka
 
+run `./mvnw clean install`
+
 image::bug.png[]
 
 
