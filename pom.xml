@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>kafka.maven.java</groupId>
-    <artifactId>kafka-maven-java</artifactId>
+    <groupId>test.kafka</groupId>
+    <artifactId>test.kafka</artifactId>
     <version>0.1</version>
     <properties>
         <micronaut.version>1.1.0.M1</micronaut.version>
         <jdk.version>1.8</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <exec.mainClass>kafka.maven.java.Application</exec.mainClass>
+        <exec.mainClass>test.kafka.Application</exec.mainClass>
     </properties>
     <repositories>
         <repository>
