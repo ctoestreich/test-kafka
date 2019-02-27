@@ -1,0 +1,14 @@
+---
+micronaut:
+    application:
+        name: test-kafka
+jackson:
+    module-scan: false
+---
+micronaut:
+    metrics:
+        enabled: true
+---
+kafka:
+    bootstrap:
+        servers: localhost:9092
